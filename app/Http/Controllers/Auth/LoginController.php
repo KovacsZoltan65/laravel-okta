@@ -167,6 +167,10 @@ class LoginController extends Controller {
         return response()->json(['success' => 3]);
     }
 
+    /**
+     * Aktuális felhasználó lekérése
+     * @return type
+     */
     public function current_user() {
 
         try{
