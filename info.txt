@@ -1,0 +1,4 @@
+Tanusítvány hiányzik:
+    cURL error 60: SSL certificate problem: unable to get local issuer certificate 
+    (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://dev-87493811.okta.com/oauth2/v1/token
+    https://curl.se/docs/caextract.html innen töltsd le a legfrissebbet.
